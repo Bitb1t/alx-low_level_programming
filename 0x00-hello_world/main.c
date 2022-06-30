@@ -1,4 +1,4 @@
--[Got]
+[Got]
 
 (0 chars long)
 
